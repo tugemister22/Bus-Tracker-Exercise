@@ -7,7 +7,7 @@ Create a folder on your machine and download files, drag index.html file into yo
 ## Roadmap
 Expand Westbound. Show Realtime bus locations.
 
-##License
+## License
 MIT License
 
 Copyright (c) 2020 kogsio
