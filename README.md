@@ -1,8 +1,8 @@
 # Bus-Tracker-Exercise
 This project shows each bus stop in the Bywater neighborhood of New Orleans.
 
-##How to run
-Copy the "Bus Tracker" folder into your machine and load the html file on your browser. Click the button on the top right corner and watch the map marker move from stop to stop.
+##Executing Program
+Copy 
 
 ## Roadmap
 Expand Westbound. Show Realtime bus locations.
