@@ -1,7 +1,7 @@
 # Bus-Tracker-Exercise
 A map that shows the Eastbound Bus Stops on East 51st St. in Chicago from the Dan Ryan to Lake Park Ave.
 
-##Executing Program
+## Executing Program
 Create a folder on your machine and download files, drag index.html file into your browser, and click on the on the button at the top to cycle through the bus stops.
 
 ## Roadmap
